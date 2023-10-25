@@ -41,7 +41,7 @@ function turnDarkModeOn(darkMode = true) {
     document.documentElement.style.setProperty("--main-fg-color", "#000");
   } else {
     document.documentElement.style.setProperty("--main-fg-color", "#fff");
-    document.documentElement.style.setProperty("--main-bg-color", "#000");
+    document.documentElement.style.setProperty("--main-bg-color", "#001933");
   }
 }
 
